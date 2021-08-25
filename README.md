@@ -31,7 +31,7 @@ Hi! My name is Kieran ♂️, I'm interested in technology, especially informati
 
 <img align="left" alt="MySQL" height="25px" src="./assets/images/mysql.png" />
 
-<img align="left" alt="MySQL" height="27px" src="./assets/images/postgresql.png" />
+<img align="left" alt="MySQL" width="30px" height="auto" src="./assets/images/postgresql.png" />
 
 <!---
 kspc100/kspc100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
