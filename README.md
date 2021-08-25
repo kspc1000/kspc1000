@@ -1,4 +1,4 @@
-# ~Welcome!~ `() => console.log(" Hello World! 👋🌎 ");`
+# \~Welcome!\~ `() => console.log(" Hello World! 👋🌎 ");`
 Hi! My name is Kieran ♂️, I'm interested in technology, especially information technology and I ❤️ programming! I am inseparable from my laptop 💻 because I love to code 👨‍💻 or learn something new with it in my own free time ⏰. I always try to perfect 👌 the work that I do and aim for the highest quality possible ✨. I also genuinely enjoy teaching 📝 very much!
 
 # 🔥 Hot Statistics 📈
