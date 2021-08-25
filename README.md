@@ -1,6 +1,6 @@
 
-[![Kieran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kspc100&theme=radical)]
-(https://github.com/kspc100/github-readme-stats)
+[![Kieran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kspc100&theme=radical&show_icons=true)
+)](https://github.com/kspc100/github-readme-stats)
 
 
 
