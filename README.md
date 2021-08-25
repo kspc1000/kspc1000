@@ -1,6 +1,5 @@
 
 [![Kieran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kspc100&theme=radical&show_icons=true)
-)]
 
 
 
