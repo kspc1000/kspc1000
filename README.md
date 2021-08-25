@@ -50,7 +50,7 @@ Hi! My name is Kieran <img src="./assets/images/k.png" width="18.5px" style="pos
 
 <img align="left" alt="MySQL" height="25px" src="./assets/images/mysql.png" />
 
-<img align="left" alt="postgresQL" width="33px" height="auto" src="./assets/images/postgresql.png" />
+<img align="left" alt="postgresQL" width="35px" height="35px" src="./assets/images/postgresql.png" />
 
 <!---
 kspc100/kspc100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
