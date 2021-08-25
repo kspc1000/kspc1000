@@ -1,10 +1,9 @@
 <!-- Background -->
 <img src="./assets/images/k_code_wallpaper.png" alt="background" />
-<br />
 
 <!-- Introduction -->
 # `() => console.log("Hello!");` <img src="./assets/gifs/wave.gif" width="28px" alt="hi">
-Hi! My name is Kieran ♂️, I'm interested in technology, especially information technology and I ❤️ programming! I am inseparable from my laptop 💻 because I love to code 👨‍💻 or learn something new with it in my own free time ⏰. I always try to perfect 👌 the work that I do and aim for the highest quality possible ✨. I also genuinely enjoy teaching 📝 very much!
+Hi! My name is Kieran <img src="./assets/images/k.png" width="15px" alt="Personal Logo">, I'm interested in technology, especially information technology and I ❤️ programming! I am inseparable from my laptop 💻 because I love to code 👨‍💻 or learn something new with it in my own free time ⏰. I always try to perfect 👌 the work that I do and aim for the highest quality possible ✨. I also genuinely enjoy teaching 📝 very much!
 
 - 🧑🏻‍💻 Aspiring Software Engineer
 - ♠️ Ace Programmer Wannabe
@@ -45,7 +44,7 @@ Hi! My name is Kieran ♂️, I'm interested in technology, especially informati
 
 <img align="left" alt="MySQL" height="25px" src="./assets/images/mysql.png" />
 
-<img align="left" alt="MySQL" width="30px" height="auto" src="./assets/images/postgresql.png" />
+<img align="left" alt="postgresQL" width="33px" height="auto" src="./assets/images/postgresql.png" />
 
 <!---
 kspc100/kspc100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
