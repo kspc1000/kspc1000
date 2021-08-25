@@ -1,14 +1,28 @@
-# `() => console.log("Hello!");` <img src="./assets/gifs/wave.gif" width="28px" alt="hi"> 
+<!-- Background -->
+<img src="./assets/images/k_code_wallpaper.png" alt="background" />
+<br />
+
+<!-- Introduction -->
+# `() => console.log("Hello!");` <img src="./assets/gifs/wave.gif" width="28px" alt="hi">
 Hi! My name is Kieran ♂️, I'm interested in technology, especially information technology and I ❤️ programming! I am inseparable from my laptop 💻 because I love to code 👨‍💻 or learn something new with it in my own free time ⏰. I always try to perfect 👌 the work that I do and aim for the highest quality possible ✨. I also genuinely enjoy teaching 📝 very much!
 
 - 🧑🏻‍💻 Aspiring Software Engineer
-- 
+- ♠️ Ace Programmer Wannabe
+- ⌨️ Average Typing Speed: 8️⃣4️⃣ wpm
+- 🎯 2021 Goals: Personal Projects
 
+#### You Are Visitor Number
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kspc100.kspc100)
+
+<!-- Stats -->
 # <img src="./assets/gifs/fire_burning.gif" width="32px" height="auto" alt="burning"> Hot Statistics <img src="./assets/gifs/bar_chart.gif" width="25px" height="25px" alt="chart">
 [![Kieran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kspc100&show_icons=true&title_color=FF0000&text_color=FF5959&icon_color=FFFF00&border_color=FF0000&bg_color=000&theme=radical&count_private=true&custom_title=kspc100's+🔥+Burning+🔥+Github+Stats+📊)](https://https://github.com/kspc100)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kspc100&show_icons=true&title_color=FF0000&text_color=FF5959&icon_color=FFFF00&border_color=FF0000&bg_color=000&theme=radical&custom_title=Langauge+Usage+%)](https://https://github.com/kspc100)
 
+
+
+<!-- Tools & Technologies -->
 <img align="left" alt="Git" width="26px" src="./assets/images/git.png" />
 
 <img align="left" alt="GitHub" width="26px" src="./assets/images/github.png" />
