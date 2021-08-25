@@ -1,7 +1,7 @@
 # `() => console.log("Hello!");` <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
 Hi! My name is Kieran ♂️, I'm interested in technology, especially information technology and I ❤️ programming! I am inseparable from my laptop 💻 because I love to code 👨‍💻 or learn something new with it in my own free time ⏰. I always try to perfect 👌 the work that I do and aim for the highest quality possible ✨. I also genuinely enjoy teaching 📝 very much!
 
-# 🔥 Hot Statistics 📈
+# <img src="https://c.tenor.com/8McIGu0Tf_QAAAAi/fire-joypixels.gif" alt="burning"> Hot Statistics 📈
 [![Kieran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kspc100&show_icons=true&title_color=FF0000&text_color=FF5959&icon_color=FFFF00&border_color=FF0000&bg_color=000&theme=radical&count_private=true&custom_title=kspc100's+🔥+Burning+🔥+Github+Stats+📊)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kspc100&show_icons=true&title_color=FF0000&text_color=FF5959&icon_color=FFFF00&border_color=FF0000&bg_color=000&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
