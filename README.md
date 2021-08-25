@@ -1,4 +1,4 @@
-[![Kieran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kspc100&show_icons=true&title_color=FD1C03&text_color=83EEFF&bg_color=000&border_color=F30407&icon_color=F3E00A)](https://github.com/anuraghazra/github-readme-stats)
+[![Kieran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kspc100&show_icons=true&theme=radical&title_color=FD1C03&text_color=83EEFF&bg_color=000&border_color=F30407&icon_color=F3E00A)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kspc100&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
