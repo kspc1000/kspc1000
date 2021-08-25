@@ -1,6 +1,9 @@
 # `() => console.log("Hello!");` <img src="./assets/gifs/wave.gif" width="28px" alt="hi"> 
 Hi! My name is Kieran ♂️, I'm interested in technology, especially information technology and I ❤️ programming! I am inseparable from my laptop 💻 because I love to code 👨‍💻 or learn something new with it in my own free time ⏰. I always try to perfect 👌 the work that I do and aim for the highest quality possible ✨. I also genuinely enjoy teaching 📝 very much!
 
+- 🧑🏻‍💻 Aspiring Software Engineer
+- 
+
 # <img src="./assets/gifs/fire_burning.gif" width="32px" height="auto" alt="burning"> Hot Statistics <img src="./assets/gifs/bar_chart.gif" width="25px" height="25px" alt="chart">
 [![Kieran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kspc100&show_icons=true&title_color=FF0000&text_color=FF5959&icon_color=FFFF00&border_color=FF0000&bg_color=000&theme=radical&count_private=true&custom_title=kspc100's+🔥+Burning+🔥+Github+Stats+📊)](https://https://github.com/kspc100)
 
@@ -11,6 +14,8 @@ Hi! My name is Kieran ♂️, I'm interested in technology, especially informati
 <img align="left" alt="GitHub" width="26px" src="./assets/images/github.png" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="./assets/images/visual_studio_code.png" />
+
+<img align="left" alt="Terminal" width="25px" src="./assets/images/windows_terminal.png" />
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -26,7 +31,7 @@ Hi! My name is Kieran ♂️, I'm interested in technology, especially informati
 
 <img align="left" alt="MySQL" height="25px" src="./assets/images/mysql.png" />
 
-<img align="left" alt="Terminal" width="25px" src="./assets/images/windows_terminal.png" />
+<img align="left" alt="MySQL" height="27px" src="./assets/images/postgresql.png" />
 
 <!---
 kspc100/kspc100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
