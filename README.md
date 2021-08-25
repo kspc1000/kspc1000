@@ -46,6 +46,8 @@ Hi! My name is Kieran <img src="./assets/images/k.png" width="18.5px" style="pos
 
 <img align="left" alt="Python" height="24px" src="./assets/images/python.png" />
 
+<img align="left" alt="Java" width="25px" src="./assets/images/java.png" />
+
 <img align="left" alt="MySQL" height="25px" src="./assets/images/mysql.png" />
 
 <img align="left" alt="postgresQL" width="33px" height="auto" src="./assets/images/postgresql.png" />
