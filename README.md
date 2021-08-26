@@ -2,7 +2,7 @@
 <img src="./assets/images/k_code_wallpaper.png" alt="background" />
 
 <!-- Introduction -->
-# (<img src="./assets/images/k.png" width="25px" alt="Personal Logo" />) => console.log("Hello!"); <img src="./assets/gifs/wave.gif" width="30px" alt="hi" />
+# (<img src="./assets/images/k.png" width="27px" style="position: relative; top: 4px;" alt="Personal Logo" />) => console.log("Hello!"); <img src="./assets/gifs/wave.gif" width="30px" alt="hi" />
 Hi! My name is Kieran, I'm interested in technology, especially information technology and I ❤️ programming! I am inseparable from my laptop 💻 because I love to code 👨‍💻 or learn something new with it in my own free time ⏰. I always try to perfect 👌 the work that I do and aim for the highest quality possible ✨. I also genuinely enjoy teaching 📝 very much!
 
 - 🧑🏻‍💻 Aspiring Software Engineer
