@@ -1,3 +1,5 @@
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kspc100&show_icons=true&hide_border=true&count_private=true&theme=radical" />
+
 <!-- Background -->
 <img src="./assets/images/k_code_wallpaper.png" alt="background" />
 
