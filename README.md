@@ -3,11 +3,14 @@
 
 <!-- Introduction -->
 # (<img src="./assets/images/k.png" width="25px" alt="Personal Logo" />) => console.log("Hello!"); <img src="./assets/gifs/wave.gif" width="30px" alt="hi" />
-Hi! My name is Kieran, I'm interested in technology, especially information technology and I ❤️ programming! I am inseparable from my laptop 💻 because I love to code 👨‍💻 or learn something new with it in my own free time ⏰. I always try to perfect 👌 the work that I do and aim for the highest quality possible ✨. I also genuinely enjoy teaching 📝 very much!
+Hi! My name is Kieran, I'm interested in technology, especially information technology and I ❤️ programming! I am inseparable from my laptop 💻 because I love to code 👨‍💻 or learn something new with it in my own free time ⏰. I always try to perfect 👌 the work that I do and aim for the highest quality possible ✨. I also genuinely enjoy teaching 📝 very much! Let's make the world 🌎 a better place, one piece of software at a time.
 
 - 🧑🏻‍💻 Aspiring Software Engineer
+- 🥬 Turning cabbage into commits
 - ♠️ Ace Programmer Wannabe
+- 💪 [Never give up](https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=43s) easily
 - ⌨️ Average Typing Speed: 8️⃣4️⃣ wpm
+- ⚡ Fun fact: Trilingual in both human and programming langauges
 - 🎯 2021 Goals: Personal Projects
 
 #### You Are Visitor Number
