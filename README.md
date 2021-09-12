@@ -18,9 +18,9 @@ Hi! My name is Kieran, I'm interested in technology, especially information tech
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   5 hrs 19 mins   ████████████████████▓░░░░   82.59 % 
-Markdown     40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-JSON         26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+JavaScript   3 hrs 2 mins    █████████████████████▓░░░   86.20 % 
+JSON         26 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 ```
 <!--END_SECTION:waka-->
 
