@@ -8,7 +8,7 @@ Hi! My name is Kieran, I'm interested in technology, especially information tech
 - 🧑🏻‍💻 Aspiring Software Engineer
 - 🥬 Turning cabbage into commits
 - ♠️ Ace Programmer Wannabe
-- 💪 [Never give up](https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=43s) easily
+- 💪 [Never give up](https://bit.ly/2XS3IU9) easily
 - ⌨️ Average Typing Speed: 8️⃣4️⃣ wpm
 - ⚡ Fun fact: I'm trilingual in both human and programming langauges
 - 🎯 2021 Goals: Personal Projects
