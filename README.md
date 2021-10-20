@@ -21,7 +21,7 @@ Hi! My name is Kieran, I'm interested in technology, especially information tech
 
 <!--START_SECTION:waka-->
 ```text
-HTML    2 hrs 14 mins   █████████████████████████   99.97 % 
+HTML    2 hrs 13 mins   █████████████████████████   99.45 % 
 ```
 <!--END_SECTION:waka-->
 
