@@ -20,13 +20,16 @@ Hi! My name is Kieran, I'm interested in technology, especially information tech
 # <img src="./assets/gifs/fire_burning.gif" width="32px" height="auto" alt="burning"> Hot Statistics <img src="./assets/gifs/bar_chart.gif" width="25px" height="25px" alt="chart">
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   1 hr 17 mins    ██████████████▓░░░░░░░░░░   59.04 % 
-HTML         24 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.51 % 
-YAML         9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-JSON         8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-EJS          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+JavaScript   1 hr 17 mins    ██████████████▓░░░░░░░░░░   59.04 %
+HTML         24 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.51 %
+YAML         9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
+JSON         8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+EJS          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Docker       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
 ```
+
 <!--END_SECTION:waka-->
 
 [![Kieran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kspc1000&show_icons=true&title_color=FF0000&text_color=FF5959&icon_color=FFFF00&border_color=FF0000&bg_color=000&theme=radical&count_private=true&custom_title=kspc100's+🔥+Burning+🔥+Github+Stats+📊)](https://https://github.com/kspc100)
