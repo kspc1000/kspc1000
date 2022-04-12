@@ -13,7 +13,6 @@ Hi! My name is Kieran, I'm interested in technology, especially information tech
 - ⚡ Fun fact: I'm trilingual in both human and programming langauges
 - 🎯 2021 Goals: Personal Projects
 
-#### You Are Visitor Number
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kspc100.kspc100)
 
 <!-- Stats -->
