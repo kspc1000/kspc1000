@@ -21,12 +21,12 @@ Hi! My name is Kieran, I'm interested in technology, especially information tech
 <!--START_SECTION:waka-->
 
 ```text
-Go           6 hrs 35 mins   ███████████░░░░░░░░░░░░░░   43.53 %
-TypeScript   5 hrs 9 mins    ████████▓░░░░░░░░░░░░░░░░   34.05 %
-JavaScript   1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
-HTML         47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
-YAML         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-Python       18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+TypeScript   4 hrs 33 mins   ██████████▒░░░░░░░░░░░░░░   41.33 %
+Go           3 hrs 31 mins   ████████░░░░░░░░░░░░░░░░░   32.04 %
+JavaScript   2 hrs 2 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.49 %
+HTML         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+Python       18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Git          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
