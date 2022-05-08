@@ -31,9 +31,12 @@ JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-[![Kieran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kspc1000&show_icons=true&title_color=FF0000&text_color=FF5959&icon_color=FFFF00&border_color=FF0000&bg_color=000&theme=radical&count_private=true&custom_title=kspc1000's+🔥+Burning+🔥+Github+Stats+📊)](https://https://github.com/kspc1000)
+[![kspc1000's GitHub stats](https://github-readme-stats.vercel.app/api?username=kspc1000&show_icons=true&title_color=D2292D&text_color=FF5959&icon_color=FFFF00&border_color=FF0000&bg_color=000&theme=radical&count_private=true&custom_title=kspc1000's+🔥+Burning+🔥+Github+Stats+📊)](https://https://github.com/kspc1000)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kspc1000&show_icons=true&title_color=FF0000&text_color=FF5959&icon_color=FFFF00&border_color=FF0000&bg_color=000&theme=radical&custom_title=Langauge+Usage+%)](https://https://github.com/kspc1000)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kspc1000&theme=radical&border=FF0000&background=000&currStreak=FFFF00&fire=FFA500&ring=FF0000&stroke=FF0000&sideNums=FF5959)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kspc1000&langs_count=10&show_icons=true&title_color=FF0000&text_color=FF5959&icon_color=FFFF00&border_color=FF0000&bg_color=000&theme=radical&custom_title=Langauge+Usage+%)](https://https://github.com/kspc1000)
+
 
 
 
