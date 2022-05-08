@@ -31,9 +31,9 @@ JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-[![Kieran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kspc1000&show_icons=true&title_color=FF0000&text_color=FF5959&icon_color=FFFF00&border_color=FF0000&bg_color=000&theme=radical&count_private=true&custom_title=kspc100's+🔥+Burning+🔥+Github+Stats+📊)](https://https://github.com/kspc100)
+[![Kieran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kspc1000&show_icons=true&title_color=FF0000&text_color=FF5959&icon_color=FFFF00&border_color=FF0000&bg_color=000&theme=radical&count_private=true&custom_title=kspc100's+🔥+Burning+🔥+Github+Stats+📊)](https://https://github.com/kspc1000)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kspc1000&show_icons=true&title_color=FF0000&text_color=FF5959&icon_color=FFFF00&border_color=FF0000&bg_color=000&theme=radical&custom_title=Langauge+Usage+%)](https://https://github.com/kspc100)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kspc1000&show_icons=true&title_color=FF0000&text_color=FF5959&icon_color=FFFF00&border_color=FF0000&bg_color=000&theme=radical&custom_title=Langauge+Usage+%)](https://https://github.com/kspc1000)
 
 
 
