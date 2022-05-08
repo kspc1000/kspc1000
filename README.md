@@ -10,7 +10,7 @@ Hi! My name is Kieran, I'm interested in technology, especially information tech
 - ♠️ Ace Programmer Wannabe
 - 💪 [Never give up](https://bit.ly/2XS3IU9) easily
 - ⌨️ Average Typing Speed: 8️⃣8️⃣ wpm
-- ⚡ Fun fact: I'm trilingual in both human and programming langauges
+- ⚡ Fun fact: Divergent
 - 🎯 2021 Goals: Personal Projects
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kspc1000.kspc1000)
