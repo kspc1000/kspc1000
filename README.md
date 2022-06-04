@@ -21,12 +21,12 @@ Hi! Just another imposter of @kspc1000. I'm interested in technology, especially
 <!--START_SECTION:waka-->
 
 ```text
-Go           3 hrs 41 mins   █████████░░░░░░░░░░░░░░░░   35.60 %
-TypeScript   3 hrs 33 mins   ████████▓░░░░░░░░░░░░░░░░   34.30 %
-HTML         1 hr 23 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
-Python       1 hr 1 min      ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
-Cheetah      21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Go           5 hrs 6 mins    █████████▓░░░░░░░░░░░░░░░   38.41 %
+TypeScript   4 hrs 1 min     ███████▓░░░░░░░░░░░░░░░░░   30.20 %
+HTML         1 hr 56 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
+Python       1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
+Cheetah      33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+JSON         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->
