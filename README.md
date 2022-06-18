@@ -2,8 +2,8 @@
 <img src="./assets/images/K_CodeWallpaper_2.png" alt="background" />
 
 <!-- Introduction -->
-# (<img src="./assets/images/k.png" width="25px" alt="Personal Logo" />) => console.log("Hello!"); <img src="./assets/gifs/wave.gif" width="1px" alt="hi" />
-Hi! Just another imposter of @kspc1000. I'm interested in technology, especially information technology and I ❤️ programming! I am inseparable from my laptop 💻 because I love to code 👨‍💻 or learn something new with it in my own free time ⏰. I always try to perfect 👌 the work that I do and aim for the highest quality possible ✨. I also genuinely enjoy teaching 📝 very much! Let's make the world 🌎 a better place, one piece of software at a time.
+# (<img src="./assets/images/k.png" width="25px" alt="Personal Logo" />) => console.log("Hello!"); <img src="./assets/gifs/wave.gif" width="30px" alt="hi" />
+Hi! I'm interested in technology, especially information technology and I ❤️ programming! I am inseparable from my laptop 💻 because I love to code 👨‍💻 or learn something new with it in my own free time ⏰. I always try to perfect 👌 the work that I do and aim for the highest quality possible ✨. I also genuinely enjoy teaching 📝 very much! Let's make the world 🌎 a better place, one piece of software at a time.
 
 - 🧑🏻‍💻 Aspiring Software Engineer
 - 🥬 Turning cabbage into commits
@@ -16,17 +16,17 @@ Hi! Just another imposter of @kspc1000. I'm interested in technology, especially
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kspc1000.kspc1000)
 
 <!-- Stats -->
-# <img src="./assets/gifs/fire_burning.gif" width="33px" height="auto" alt="burning"> Hot Statistics <img src="./assets/gifs/bar_chart.gif" width="25px" height="25px" alt="chart">
+# <img src="./assets/gifs/fire_burning.gif" width="32px" height="auto" alt="burning"> Hot Statistics <img src="./assets/gifs/bar_chart.gif" width="25px" height="25px" alt="chart">
 
 <!--START_SECTION:waka-->
 
 ```text
-Go           6 hrs 47 mins   ██████████▓░░░░░░░░░░░░░░   42.12 %
-TypeScript   5 hrs 38 mins   ████████▓░░░░░░░░░░░░░░░░   34.99 %
-HTML         2 hrs 19 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.41 %
-Python       33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
-JavaScript   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Go           8 hrs 4 mins    █████████████████░░░░░░░░   68.26 %
+TypeScript   1 hr 43 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
+HTML         1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
+JSON         33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+YAML         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->
