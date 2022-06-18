@@ -1,5 +1,5 @@
 <!-- Background -->
-<img src="./assets/images/k_code_wallpaper.png" alt="background" />
+<img src="./assets/images/K_CodeWallpaper_2.png" alt="background" />
 
 <!-- Introduction -->
 # (<img src="./assets/images/k.png" width="25px" alt="Personal Logo" />) => console.log("Hello!"); <img src="./assets/gifs/wave.gif" width="30px" alt="hi" />
