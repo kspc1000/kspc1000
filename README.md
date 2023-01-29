@@ -21,12 +21,12 @@ Hi! I'm interested in technology, especially information technology and I ❤️
 <!--START_SECTION:waka-->
 
 ```text
-Go           6 hrs 17 mins   █████████████▓░░░░░░░░░░░   55.10 %
-TypeScript   2 hrs 16 mins   █████░░░░░░░░░░░░░░░░░░░░   20.00 %
-HTML         1 hr 56 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.97 %
-CSS          36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
-Python       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Go           5 hrs 52 mins   █████████████▓░░░░░░░░░░░   55.06 %
+TypeScript   2 hrs 9 mins    █████░░░░░░░░░░░░░░░░░░░░   20.20 %
+HTML         1 hr 56 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.15 %
+CSS          36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
+JavaScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
