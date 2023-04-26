@@ -21,8 +21,7 @@ Hi! I'm interested in technology, especially information technology and I ❤️
 <!--START_SECTION:waka-->
 
 ```text
-HTML         29 mins         █████████████████████████   99.42 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
