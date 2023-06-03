@@ -20,7 +20,7 @@ Hi! I'm interested in technology, especially information technology and I ❤️
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
