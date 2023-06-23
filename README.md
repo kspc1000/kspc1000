@@ -21,7 +21,8 @@ Hi! I'm interested in technology, especially information technology and I ❤️
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++      16 mins         █████████████████▓░░░░░░░   70.83 %
+Python   6 mins          ███████▒░░░░░░░░░░░░░░░░░   29.17 %
 ```
 
 <!--END_SECTION:waka-->
