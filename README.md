@@ -21,8 +21,10 @@ Hi! I'm interested in technology, especially information technology and I ❤️
 <!--START_SECTION:waka-->
 
 ```txt
-C++      16 mins         █████████████████▓░░░░░░░   70.83 %
-Python   6 mins          ███████▒░░░░░░░░░░░░░░░░░   29.17 %
+Python    53 mins         ███████████████▓░░░░░░░░░   62.23 %
+C++       16 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.09 %
+RPMSpec   9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
+JSON      7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
 ```
 
 <!--END_SECTION:waka-->
