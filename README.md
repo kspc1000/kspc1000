@@ -9,7 +9,7 @@ Hi! I'm interested in technology, especially information technology and I ❤️
 - 🥬 Turning cabbage into commits
 - ♠️ Ace Programmer Wannabe
 - 💪 [Never give up](https://bit.ly/2XS3IU9) easily
-- ⌨️ Average Typing Speed: 8️⃣8️⃣ wpm
+- ⌨️ Average Typing Speed: 💯 wpm
 - ⚡ Fun fact: Divergent
 - 🎯 2022 Goals: Personal Projects
 
