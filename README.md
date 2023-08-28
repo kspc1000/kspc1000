@@ -10,8 +10,8 @@ Hi! I'm interested in technology, especially information technology and I ❤️
 - ♠️ Ace Programmer Wannabe
 - 💪 [Never give up](https://bit.ly/2XS3IU9) easily
 - ⌨️ Average Typing Speed: 💯 wpm
-- ⚡ Fun fact: Divergent
-- 🎯 2022 Goals: Personal Projects
+- ⚡ Fun fact: ❤️ Automating
+- 🎯 2023 Goals: Grit
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kspc1000.kspc1000)
 
