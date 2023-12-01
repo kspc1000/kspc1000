@@ -6,12 +6,9 @@
 Hi! I'm interested in technology, especially information technology and I ❤️ programming! I am inseparable from my laptop 💻 because I love to code 👨‍💻 or learn something new with it in my own free time ⏰. I always try to perfect 👌 the work that I do and aim for the highest quality possible ✨. I also genuinely enjoy teaching 📝 very much! Let's make the world 🌎 a better place, one piece of software at a time.
 
 - 🧑🏻‍💻 Aspiring Software Engineer
-- 🥬 Turning cabbage into commits
-- ♠️ Ace Programmer Wannabe
+- 🥬 Turning Cabbage into Commits
 - 💪 [Never give up](https://bit.ly/2XS3IU9) easily
 - ⌨️ Average Typing Speed: 💯 wpm
-- ⚡ Fun fact: ❤️ Overengineering 😂
-- 🎯 2023 Goals: Grit
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kspc1000.kspc1000)
 
