@@ -20,7 +20,7 @@ Hi! I'm interested in technology, especially information technology and I ❤️
 
 ```txt
 Python       2 hrs 39 mins   ███████████▓░░░░░░░░░░░░░   46.83 %
-HTML         54 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
+HTML         54 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.03 %
 Markdown     52 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
 JavaScript   32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
 Git Config   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
