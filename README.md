@@ -19,8 +19,7 @@ Hi! I'm interested in technology, especially information technology and I ❤️
 <!--START_SECTION:waka-->
 
 ```txt
-Python   6 mins          ████████████████████████▓   99.13 %
-Text     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Python   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
