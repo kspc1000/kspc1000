@@ -19,7 +19,8 @@ Hi! I'm passionate about information technology and I ❤️ programming! I am i
 <!--START_SECTION:waka-->
 
 ```txt
-Objective-C   32 mins         █████████████████████████   100.00 %
+Objective-C   32 mins         █████████████████████████   99.78 %
+HTML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
