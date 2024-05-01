@@ -20,7 +20,7 @@ Hi! I'm passionate about information technology and I ❤️ programming! I am i
 
 ```txt
 TypeScript   2 hrs 24 mins   ██████████▓░░░░░░░░░░░░░░   42.00 %
-HTML         2 hrs 23 mins   ██████████▒░░░░░░░░░░░░░░   41.74 %
+HTML         2 hrs 23 mins   ██████████▒░░░░░░░░░░░░░░   41.75 %
 JavaScript   25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
 JSON         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
 Markdown     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
