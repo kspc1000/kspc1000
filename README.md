@@ -19,10 +19,10 @@ Hi! I'm passionate about information technology and I ❤️ programming! I am i
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 hrs 34 mins   ██████████████████░░░░░░░   72.60 %
-Other        46 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.84 %
-JSON         26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
-MDX          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+TypeScript   3 hrs 53 mins   ██████████████████▒░░░░░░   73.42 %
+Other        50 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.83 %
+JSON         26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
+MDX          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
 YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
