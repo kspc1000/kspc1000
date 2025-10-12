@@ -19,11 +19,11 @@ Hi! I'm passionate about information technology and I ❤️ programming! I am i
 <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr 29 mins    ████████████░░░░░░░░░░░░░   47.67 %
-JSON         1 hr 4 mins     ████████▓░░░░░░░░░░░░░░░░   34.36 %
-JavaScript   14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
-Markdown     10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-INI          8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+JSON         58 mins         ████████████▒░░░░░░░░░░░░   49.60 %
+Python       36 mins         ███████▓░░░░░░░░░░░░░░░░░   31.08 %
+Markdown     10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
+INI          8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+JavaScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
 ```
 
 <!--END_SECTION:waka-->
