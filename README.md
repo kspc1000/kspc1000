@@ -19,11 +19,11 @@ Hi! I'm passionate about information technology and I ❤️ programming! I am i
 <!--START_SECTION:waka-->
 
 ```txt
-Dart                5 hrs 55 mins   ██████████████████████▒░░   89.78 %
-YAML                19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-Gradle Kotlin DSL   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-Swift               4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-JSON                1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Dart                8 hrs 36 mins   ███████████████████████░░   92.07 %
+YAML                23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+Gradle Kotlin DSL   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Swift               4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+JSON                1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
