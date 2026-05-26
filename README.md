@@ -19,7 +19,9 @@ Hi! I'm passionate about information technology and I ❤️ programming! I am i
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   37 mins               █████████████████████████   100.00 %
+JavaScript   39 mins               █████████████░░░░░░░░░░░░   51.34 %
+Markdown     37 mins               ████████████░░░░░░░░░░░░░   48.60 %
+Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
